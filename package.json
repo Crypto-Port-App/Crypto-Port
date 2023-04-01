@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.10.6",
     "@mantine/core": "^6.0.5",
     "@mantine/hooks": "^6.0.5",
     "@modulz/radix-icons": "^4.0.0",
