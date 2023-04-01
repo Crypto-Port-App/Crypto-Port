@@ -82,8 +82,8 @@ function App() {
                 mr='xl'
               />
             </MediaQuery>
-            <Text>Your coins</Text>
-            <div style={{ marginLeft: 'auto' }}>
+            <Text style={{ marginLeft: '10px' }}>Your coins</Text>
+            <div style={{ marginLeft: 'auto', marginRight: '10px' }}>
               <ActionIcon variant='default' onClick={() => toggleColorScheme}>
                 {colorScheme === 'dark' ? <SunIcon /> : <MoonIcon />}
               </ActionIcon>
