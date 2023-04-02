@@ -11,12 +11,14 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "add": "^2.0.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "6",
     "react-scripts": "5.0.1",
+    "tauri-plugin-store-api": "https://github.com/tauri-apps/tauri-plugin-store",
     "web-vitals": "^2.1.4",
-    "tauri-plugin-store-api": "https://github.com/tauri-apps/tauri-plugin-store#f0da2d1"
+    "yarn": "^1.22.19"
   },
   "scripts": {
     "dev": "tauri dev",
